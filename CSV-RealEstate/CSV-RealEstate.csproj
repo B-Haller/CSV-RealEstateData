@@ -4,11 +4,11 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{47B99F4B-69F2-48B7-893F-EF3002A1ADAA}</ProjectGuid>
+    <ProjectGuid>{6C578CDA-ECC9-47CE-8F6F-030835EDD3A3}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
-    <RootNamespace>CSVRealEstateData</RootNamespace>
-    <AssemblyName>CSVRealEstateData</AssemblyName>
+    <RootNamespace>CSV_RealEstate</RootNamespace>
+    <AssemblyName>CSV-RealEstate</AssemblyName>
     <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
   </PropertyGroup>
@@ -46,6 +46,7 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+    <None Include="realestatedata.csv" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

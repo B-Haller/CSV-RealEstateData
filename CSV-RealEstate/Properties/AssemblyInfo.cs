@@ -5,12 +5,12 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following 
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("CSVRealEstateData")]
+[assembly: AssemblyTitle("CSV-RealEstate")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
-[assembly: AssemblyCompany("Hewlett-Packard")]
-[assembly: AssemblyProduct("CSVRealEstateData")]
-[assembly: AssemblyCopyright("Copyright © Hewlett-Packard 2014")]
+[assembly: AssemblyCompany("")]
+[assembly: AssemblyProduct("CSV-RealEstate")]
+[assembly: AssemblyCopyright("Copyright ©  2014")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
 
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("2cc96ee4-a570-4e41-8174-2842ecd5d0ed")]
+[assembly: Guid("0d77a95c-2ee8-4b87-859b-442da97c2864")]
 
 // Version information for an assembly consists of the following four values:
 //
