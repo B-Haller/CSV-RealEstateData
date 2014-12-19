@@ -9,3 +9,9 @@ C:\Users\Technologist\Documents\GitHub\CSV-RealEstate-master\CSV-RealEstate\obj\
 C:\Users\Technologist\Documents\GitHub\CSV-RealEstate-master\CSV-RealEstate\bin\Debug\CSV-RealEstate.exe
 C:\Users\Technologist\Documents\GitHub\CSV-RealEstate-master\CSV-RealEstate\bin\Debug\CSV-RealEstate.pdb
 C:\Users\Technologist\Documents\GitHub\CSV-RealEstate-master\CSV-RealEstate\obj\Debug\CSV-RealEstate.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\CSV-RealEstate\CSV-RealEstate\bin\Debug\CSV-RealEstate.exe.config
+C:\Users\Technologist\Documents\GitHub\CSV-RealEstate\CSV-RealEstate\obj\Debug\CSV-RealEstate.exe
+C:\Users\Technologist\Documents\GitHub\CSV-RealEstate\CSV-RealEstate\obj\Debug\CSV-RealEstate.pdb
+C:\Users\Technologist\Documents\GitHub\CSV-RealEstate\CSV-RealEstate\bin\Debug\CSV-RealEstate.exe
+C:\Users\Technologist\Documents\GitHub\CSV-RealEstate\CSV-RealEstate\bin\Debug\CSV-RealEstate.pdb
+C:\Users\Technologist\Documents\GitHub\CSV-RealEstate\CSV-RealEstate\obj\Debug\CSV-RealEstate.csprojResolveAssemblyReference.cache
